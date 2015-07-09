@@ -1,1 +1,6 @@
-readme file ...
+Okean
+======
+
+OKEAN is a python package with tools related with ocean modelling and data analysis. Part of the utilities are related with the ocean model ROMS, but many are general purpose. Until few years ago there was no options for ocean modellers, only matlab. Now there are some python packages that can replace all kind of matlab sets of functions. The objective is just one: make life easier. Python coding is easier (!), structured and not limited.
+
+Related with model ROMS, you can find PYROMS (started by Rob Hetland, then continued by Kate Hedstrom and others), OCTANT (created by Rob Hetland as an evolution of PYROMS) and OKEAN. 
